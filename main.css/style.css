@@ -1,0 +1,62 @@
+.secound{
+    color: rgb(233, 53, 7);
+    background-color: lavenderblush;
+    border: lightsalmon;
+    border-radius: 10px;
+    text-align: center justify;
+    margin: 20px 50px;
+}
+
+.title{
+    color: rgb(43, 226, 58);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: initial;
+    text-align: center;
+    
+}
+img{
+    border: maroon;
+    size: 50px;
+    border-left: 50px;
+    width: 30%;
+    align-self: center;
+   margin-left: 500px;
+
+}
+.river{
+    text-align: center;
+    color: mediumvioletred;
+}
+.forest{
+    margin-left: 250px;
+    margin: auto;
+}
+
+.first{
+    color: rgb(7, 233, 146);
+    background-color: lavenderblush;
+    border: lightsalmon;
+    border-radius: 10px;
+    text-align: center justify;
+    margin: 20px 50px;
+}
+
+.third{
+    color: rgb(233, 7, 139);
+    background-color: lavenderblush;
+    border: lightsalmon;
+    border-radius: 10px;
+    text-align: center justify;
+    margin: 20px 50px;
+}
+.alone{
+    text-align: center;
+    color: orangered;
+    font-size: larger;
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: bolder;
+   font-style: italic;
+   font-size: xx-large;
+
+}
