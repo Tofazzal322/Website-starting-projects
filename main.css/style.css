@@ -60,3 +60,8 @@ img{
    font-size: xx-large;
 
 }
+p{
+    background-color: brown;
+    text-align: center;
+    text-justify: auto;
+}
